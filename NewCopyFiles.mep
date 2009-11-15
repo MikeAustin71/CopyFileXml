@@ -45,6 +45,10 @@
 LV=3FN=20091110_220011_CopyLog.txtCF=TestProduct\20091110_220011_CopyLog.txtST=1
 LV=2FN=CopyFilesXml.slnCF=CopyFilesXml.slnST=1
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+LV=2FN=.gitignoreCF=.gitignoreST=1
+>>>>>>> DevWork1
 =======
 LV=2FN=.gitignoreCF=.gitignoreST=1
 >>>>>>> DevWork1
@@ -73,7 +77,11 @@
 /GI==0
 INFO.DB
 <<<<<<< HEAD
+<<<<<<< HEAD
 NM=SelItemDT=38
+=======
+NM=SelItemDT=26
+>>>>>>> DevWork1
 =======
 NM=SelItemDT=26
 >>>>>>> DevWork1
