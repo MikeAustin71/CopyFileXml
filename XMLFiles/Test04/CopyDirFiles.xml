@@ -1,8 +1,8 @@
 <?xml version="1.0"?>
 <CopyFilesOperation xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <CopyFileCommands>
-    
-		<CopyFileCommand>
+
+    <CopyFileCommand>
       <SourceDirectory>D:\T001\TestFolder\WierdFiles</SourceDirectory>
       <TargetDirectory>D:\T002\</TargetDirectory>
       <CommandParameters>
@@ -15,7 +15,7 @@
         <PostCopyAction />
       </CommandParameters>
     </CopyFileCommand>
-		
+
     <CopyFileCommand>
       <SourceDirectory>D:\T001\TestFolder\Bin</SourceDirectory>
       <TargetDirectory>D:\T002\</TargetDirectory>
@@ -29,6 +29,6 @@
         <PostCopyAction />
       </CommandParameters>
     </CopyFileCommand>
-  
-	</CopyFileCommands>
+
+</CopyFileCommands>
 </CopyFilesOperation>
