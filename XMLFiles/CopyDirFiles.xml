@@ -1,0 +1,48 @@
+<?xml version="1.0"?>
+<CopyFilesOperation xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <CopyFileCommands>
+    
+   <CopyFileCommand>
+      <SourceDirectory>D:\T001\TestFolder\WierdFiles</SourceDirectory>
+      <TargetDirectory>D:\T002\</TargetDirectory>
+      <CommandParameters>
+        <DeleteExistingFilesFirst>true</DeleteExistingFilesFirst>
+        <DeleteExistingDirectoriesFirst>true</DeleteExistingDirectoriesFirst>
+        <WildCard />
+        <FileName />
+        <RegExFilter>^\d{4}_{1}\d{8}</RegExFilter>
+        <CopySubdirectories>false</CopySubdirectories>
+        <PostCopyAction />
+      </CommandParameters>
+    </CopyFileCommand>
+		
+    <CopyFileCommand>
+      <SourceDirectory>D:\T001\TestFolder\Bin</SourceDirectory>
+      <TargetDirectory>D:\T002\</TargetDirectory>
+      <CommandParameters>
+        <DeleteExistingFilesFirst>false</DeleteExistingFilesFirst>
+        <DeleteExistingDirectoriesFirst>false</DeleteExistingDirectoriesFirst>
+        <WildCard />
+        <FileName>BinLevel1_1_002.txt</FileName>
+        <RegExFilter />
+        <CopySubdirectories>false</CopySubdirectories>
+        <PostCopyAction />
+      </CommandParameters>
+    </CopyFileCommand>
+
+   <CopyFileCommand>
+      <SourceDirectory>D:\T001\TestFolder</SourceDirectory>
+      <TargetDirectory>D:\T003\</TargetDirectory>
+      <CommandParameters>
+        <DeleteExistingFilesFirst>true</DeleteExistingFilesFirst>
+        <DeleteExistingDirectoriesFirst>true</DeleteExistingDirectoriesFirst>
+        <WildCard>*.*</WildCard>
+        <FileName></FileName>
+        <RegExFilter />
+        <CopySubdirectories>false</CopySubdirectories>
+        <PostCopyAction />
+      </CommandParameters>
+    </CopyFileCommand>
+  
+  </CopyFileCommands>
+</CopyFilesOperation>

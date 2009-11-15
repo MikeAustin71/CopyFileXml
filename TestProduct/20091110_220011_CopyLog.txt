@@ -1,0 +1,85 @@
+======================================================================
+======================================================================
+                            CopyFilesXml
+                        File Copy Operation
+                       11/10/2009 10:00:11 PM
+======================================================================
+======================================================================
+ 
+
+----------------------------------------------------------------------
+Copy Dir From: D:\T001\TestFolder\WierdFiles
+  Copy Dir To: D:\T002
+----------------------------------------------------------------------
+
+Copy File From: D:\T001\TestFolder\WierdFiles\1344_11072009
+  Copy File To: D:\T002\1344_11072009
+
+----------------------------------------------------------------------
+Copy Dir From: D:\T001\TestFolder\Bin
+  Copy Dir To: D:\T002
+----------------------------------------------------------------------
+
+Copy File From: D:\T001\TestFolder\Bin\BinLevel1_1_002.txt
+  Copy File To: D:\T002\BinLevel1_1_002.txt
+
+----------------------------------------------------------------------
+Copy Dir From: D:\T001\TestFolder
+  Copy Dir To: D:\T003
+----------------------------------------------------------------------
+
+Copy File From: D:\T001\TestFolder\DevServcerConflict.psd
+  Copy File To: D:\T003\DevServcerConflict.psd
+
+Copy File From: D:\T001\TestFolder\DevServerConflict.gif
+  Copy File To: D:\T003\DevServerConflict.gif
+
+Copy File From: D:\T001\TestFolder\DevServerConflict.jpg
+  Copy File To: D:\T003\DevServerConflict.jpg
+
+Copy File From: D:\T001\TestFolder\ReSharper40DefaultKeymap.bmp
+  Copy File To: D:\T003\ReSharper40DefaultKeymap.bmp
+
+Copy File From: D:\T001\TestFolder\ReSharper40DefaultKeymap.pdf
+  Copy File To: D:\T003\ReSharper40DefaultKeymap.pdf
+
+Copy File From: D:\T001\TestFolder\ReSharper40DefaultKeymap.psd
+  Copy File To: D:\T003\ReSharper40DefaultKeymap.psd
+
+Copy File From: D:\T001\TestFolder\RootTest_01.txt
+  Copy File To: D:\T003\RootTest_01.txt
+
+Copy File From: D:\T001\TestFolder\Visual C_Sharp 2008 Poster-1.bmp
+  Copy File To: D:\T003\Visual C_Sharp 2008 Poster-1.bmp
+
+Copy File From: D:\T001\TestFolder\Visual C_Sharp 2008 Poster-1.psd
+  Copy File To: D:\T003\Visual C_Sharp 2008 Poster-1.psd
+
+Copy File From: D:\T001\TestFolder\Visual C_Sharp 2008 Poster-2NoColor.bmp
+  Copy File To: D:\T003\Visual C_Sharp 2008 Poster-2NoColor.bmp
+
+Copy File From: D:\T001\TestFolder\Visual C_Sharp 2008 Poster-2_NoColor.psd
+  Copy File To: D:\T003\Visual C_Sharp 2008 Poster-2_NoColor.psd
+
+Copy File From: D:\T001\TestFolder\Visual C_Sharp 2008 Poster.pdf
+  Copy File To: D:\T003\Visual C_Sharp 2008 Poster.pdf
+
+ 
+
+======================================================================
+
+======================================================================
+
+File Copy Operation Completed
+
+11/10/2009 10:00:18 PM
+
+Directories Copied:  3
+
+      Files Copied:  14
+
+======================================================================
+
+======================================================================
+
+ 
