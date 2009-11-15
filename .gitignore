@@ -4,3 +4,4 @@ CopyFilesXML/bin/*
 CopyFilesXML/obj/*
 _ReSharper.*
 *.resharper.user
+*.suo

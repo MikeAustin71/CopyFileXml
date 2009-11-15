@@ -15,7 +15,7 @@ namespace CopyFilesXml
 
 			if(modes.ExecutionMode==AppExecutionMode.AbortAndExit)
 			{
-				Console.WriteLine("Application terminating as requested...");
+				Console.WriteLine("Terminating Application as requested...");
 				return;
 			}
 
