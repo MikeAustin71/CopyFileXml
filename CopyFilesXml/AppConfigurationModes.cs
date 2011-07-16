@@ -1,5 +1,7 @@
 namespace CopyFilesXml
 {
+	 
+	 
 	public class AppConfigurationModes
 	{
 		public AppExecutionMode ExecutionMode
