@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="CopyFilesXml">
+</Property><Property Name="Solution File" Value="C:\CSharp\CopyFileXml\CopyFilesXml.sln">
+</Property><Property Name="Date" Value="Saturday, July 16, 2011">
+</Property><Property Name="Time" Value="23:46 PM">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="CopyFilesXml.sln" Description="File successfully backed up as C:\CSharp\CopyFileXml\Backup\CopyFilesXml.sln">
+</Event><Event ErrorLevel="0" Project="CopyFilesXml" Source="CopyFilesXml\CopyFilesXml.csproj" Description="Project file successfully backed up as C:\CSharp\CopyFileXml\Backup\CopyFilesXml\CopyFilesXml.csproj">
+</Event><Event ErrorLevel="0" Project="CopyFilesXml" Source="CopyFilesXml\AppConfigurationModes.cs" Description="File successfully backed up as C:\CSharp\CopyFileXml\Backup\CopyFilesXml\AppConfigurationModes.cs">
+</Event><Event ErrorLevel="0" Project="CopyFilesXml" Source="CopyFilesXml\AppExecutionMode.cs" Description="File successfully backed up as C:\CSharp\CopyFileXml\Backup\CopyFilesXml\AppExecutionMode.cs">
+</Event><Event ErrorLevel="0" Project="CopyFilesXml" Source="CopyFilesXml\AppStartUpMode.cs" Description="File successfully backed up as C:\CSharp\CopyFileXml\Backup\CopyFilesXml\AppStartUpMode.cs">
+</Event><Event ErrorLevel="0" Project="CopyFilesXml" Source="CopyFilesXml\AppXmlMode.cs" Description="File successfully backed up as C:\CSharp\CopyFileXml\Backup\CopyFilesXml\AppXmlMode.cs">
+</Event><Event ErrorLevel="0" Project="CopyFilesXml" Source="CopyFilesXml\CopyCommandParameters.cs" Description="File successfully backed up as C:\CSharp\CopyFileXml\Backup\CopyFilesXml\CopyCommandParameters.cs">
+</Event><Event ErrorLevel="0" Project="CopyFilesXml" Source="CopyFilesXml\CopyFileCommand.cs" Description="File successfully backed up as C:\CSharp\CopyFileXml\Backup\CopyFilesXml\CopyFileCommand.cs">
+</Event><Event ErrorLevel="0" Project="CopyFilesXml" Source="CopyFilesXml\CopyFileOperation.cs" Description="File successfully backed up as C:\CSharp\CopyFileXml\Backup\CopyFilesXml\CopyFileOperation.cs">
+</Event><Event ErrorLevel="0" Project="CopyFilesXml" Source="CopyFilesXml\CopyMode.cs" Description="File successfully backed up as C:\CSharp\CopyFileXml\Backup\CopyFilesXml\CopyMode.cs">
+</Event><Event ErrorLevel="0" Project="CopyFilesXml" Source="CopyFilesXml\DoCopyOperation.cs" Description="File successfully backed up as C:\CSharp\CopyFileXml\Backup\CopyFilesXml\DoCopyOperation.cs">
+</Event><Event ErrorLevel="0" Project="CopyFilesXml" Source="CopyFilesXml\ExecuteUserInterfaceStartUp.cs" Description="File successfully backed up as C:\CSharp\CopyFileXml\Backup\CopyFilesXml\ExecuteUserInterfaceStartUp.cs">
+</Event><Event ErrorLevel="0" Project="CopyFilesXml" Source="CopyFilesXml\FileUtility.cs" Description="File successfully backed up as C:\CSharp\CopyFileXml\Backup\CopyFilesXml\FileUtility.cs">
+</Event><Event ErrorLevel="0" Project="CopyFilesXml" Source="CopyFilesXml\GlobalDisplayElements.cs" Description="File successfully backed up as C:\CSharp\CopyFileXml\Backup\CopyFilesXml\GlobalDisplayElements.cs">
+</Event><Event ErrorLevel="0" Project="CopyFilesXml" Source="CopyFilesXml\HelperUtility.cs" Description="File successfully backed up as C:\CSharp\CopyFileXml\Backup\CopyFilesXml\HelperUtility.cs">
+</Event><Event ErrorLevel="0" Project="CopyFilesXml" Source="CopyFilesXml\LogAndDisplayController.cs" Description="File successfully backed up as C:\CSharp\CopyFileXml\Backup\CopyFilesXml\LogAndDisplayController.cs">
+</Event><Event ErrorLevel="0" Project="CopyFilesXml" Source="CopyFilesXml\LoggerMode.cs" Description="File successfully backed up as C:\CSharp\CopyFileXml\Backup\CopyFilesXml\LoggerMode.cs">
+</Event><Event ErrorLevel="0" Project="CopyFilesXml" Source="CopyFilesXml\PrepareXMLFile.cs" Description="File successfully backed up as C:\CSharp\CopyFileXml\Backup\CopyFilesXml\PrepareXMLFile.cs">
+</Event><Event ErrorLevel="0" Project="CopyFilesXml" Source="CopyFilesXml\Program.cs" Description="File successfully backed up as C:\CSharp\CopyFileXml\Backup\CopyFilesXml\Program.cs">
+</Event><Event ErrorLevel="0" Project="CopyFilesXml" Source="CopyFilesXml\Properties\AssemblyInfo.cs" Description="File successfully backed up as C:\CSharp\CopyFileXml\Backup\CopyFilesXml\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="CopyFilesXml" Source="CopyFilesXml\CopyFilesXml.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="CopyFilesXml" Source="CopyFilesXml\CopyFilesXml.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="CopyFilesXMLTests" Source="CopyFilesXMLTests\CopyFilesXMLTests.csproj" Description="Project file successfully backed up as C:\CSharp\CopyFileXml\Backup\CopyFilesXMLTests\CopyFilesXMLTests.csproj">
+</Event><Event ErrorLevel="0" Project="CopyFilesXMLTests" Source="CopyFilesXMLTests\CopyFilesFixture.cs" Description="File successfully backed up as C:\CSharp\CopyFileXml\Backup\CopyFilesXMLTests\CopyFilesFixture.cs">
+</Event><Event ErrorLevel="0" Project="CopyFilesXMLTests" Source="CopyFilesXMLTests\Properties\AssemblyInfo.cs" Description="File successfully backed up as C:\CSharp\CopyFileXml\Backup\CopyFilesXMLTests\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="CopyFilesXMLTests" Source="CopyFilesXMLTests\CopyFilesXMLTests.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="CopyFilesXMLTests" Source="CopyFilesXMLTests\CopyFilesXMLTests.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="CopyFilesXml.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="CopyFilesXml.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="CopyFilesXml" Source="CopyFilesXml\CopyFilesXml.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="CopyFilesXMLTests" Source="CopyFilesXMLTests\CopyFilesXMLTests.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

@@ -1,6 +1,6 @@
 ﻿
-Microsoft Visual Studio Solution File, Format Version 11.00
-# Visual Studio 2010
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CopyFilesXml", "CopyFilesXml\CopyFilesXml.csproj", "{41AF1F09-07BE-4030-8FE2-F2A70C940F84}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CopyFilesXMLTests", "CopyFilesXMLTests\CopyFilesXMLTests.csproj", "{42C96D55-E09D-4941-BC57-EA1F1AE3E2CC}"
