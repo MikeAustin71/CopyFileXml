@@ -1,4 +1,4 @@
-Application Upgraded to Visual Studio 2010
-.Net 4.0
+Application Upgraded to Visual Studio 2012
+.Net 4.5
 
-Test Run 03/13/2013 19:53 Hours
+Test Run 03/13/2013 20:09 Hours
