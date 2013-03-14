@@ -34,24 +34,24 @@ namespace CopyFilesXMLTests
 			var cmd1 = new CopyFileCommand
 			          	{
 			          		CommandParameters = parms,
-			          		SourceDirectory = @"D:\T001\TestFolder",
-			          		TargetDirectory = @"D:\T002\TestFolder"
+			          		SourceDirectory = @"C:\T01\TestFolder",
+			          		TargetDirectory = @"C:\T02\TestFolder"
 			          	};
 
 
 			var cmd2 = new CopyFileCommand
 			           	{
 			           		CommandParameters = parms,
-			           		SourceDirectory = @"D:\T001",
-			           		TargetDirectory = @"D:\T015"
+			           		SourceDirectory = @"C:\T01",
+			           		TargetDirectory = @"C:\T15"
 			           	};
 
 
 			var cmd3 = new CopyFileCommand
 			           	{
 			           		CommandParameters = parms,
-			           		SourceDirectory = @"D:\T001",
-			           		TargetDirectory = @"D:\T003"
+			           		SourceDirectory = @"C:\T01",
+			           		TargetDirectory = @"C:\T03"
 			           	};
 
 
