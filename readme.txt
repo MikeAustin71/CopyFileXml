@@ -1,2 +1,1 @@
-Application Upgraded to Visual Studio 2010
-.Net 4.0
+CopyFilesXML Upgraded To VS2012 04-13-2012
