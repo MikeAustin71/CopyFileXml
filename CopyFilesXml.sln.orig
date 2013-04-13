@@ -5,9 +5,15 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CopyFilesXml", "CopyFilesXm
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CopyFilesXMLTests", "CopyFilesXMLTests\CopyFilesXMLTests.csproj", "{42C96D55-E09D-4941-BC57-EA1F1AE3E2CC}"
 EndProject
+<<<<<<< HEAD
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Docs", "Docs", "{1F549264-2096-46D0-B425-F9C057765821}"
+	ProjectSection(SolutionItems) = preProject
+		readme.txt = readme.txt
+=======
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Docs", "Docs", "{5F9D0BC8-99BF-45FA-A66C-9F4FACD625C5}"
 	ProjectSection(SolutionItems) = preProject
 		Readme.txt = Readme.txt
+>>>>>>> VS10Upgrade
 	EndProjectSection
 EndProject
 Global
