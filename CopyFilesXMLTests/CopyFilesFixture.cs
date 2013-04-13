@@ -13,7 +13,7 @@ namespace CopyFilesXMLTests
 		private CopyFileOperation _copyFileOp;
 
 
-		[Test]
+		
 		[Ignore]
 		public void CreateXMLFile()
 		{
@@ -119,7 +119,7 @@ namespace CopyFilesXMLTests
 			           	};
 		}
 	
-		[Test]
+		[Ignore]
 		public void TestAssembleCompositeDirectory()
 		{
 			var origSrcDir = @"D:\T001";
