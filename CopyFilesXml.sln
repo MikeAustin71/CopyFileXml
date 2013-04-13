@@ -1,9 +1,14 @@
 ﻿
-Microsoft Visual Studio Solution File, Format Version 11.00
-# Visual Studio 2010
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CopyFilesXml", "CopyFilesXml\CopyFilesXml.csproj", "{41AF1F09-07BE-4030-8FE2-F2A70C940F84}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CopyFilesXMLTests", "CopyFilesXMLTests\CopyFilesXMLTests.csproj", "{42C96D55-E09D-4941-BC57-EA1F1AE3E2CC}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Docs", "Docs", "{5F9D0BC8-99BF-45FA-A66C-9F4FACD625C5}"
+	ProjectSection(SolutionItems) = preProject
+		Readme.txt = Readme.txt
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
