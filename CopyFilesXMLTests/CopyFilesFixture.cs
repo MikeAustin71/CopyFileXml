@@ -65,7 +65,7 @@ namespace CopyFilesXMLTests
 			var u = new HelperUtility();
 
 			var serializer = new XmlSerializer(typeof (CopyFileOperation));
-			var output = Path.Combine(@"D:\CS_Test", u.XMLCommandFileName);
+			var output = Path.Combine(@"C:\CS_Test", u.XMLCommandFileName);
 			var fs = new FileStream(output, FileMode.Create);
 			serializer.Serialize(fs,root);
 			fs.Close();
